@@ -14,7 +14,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=Sumitpathak721&style=flat-square&color=blue" alt=""/>
   <h1>
-    Hello World😊, I'm Sumit Pathak.
+    Hello World, I'm Abhyuday Singh.
   </h1>
 </div>
 
