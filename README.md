@@ -22,9 +22,8 @@
 
 ## 👨‍💻  &nbsp;About Me 
 
-- IIIT Hackathon winner'24(National Level) ✨
+- INTERNSHIP
 - Reach me with Email ID: <a href="mailto:abhyuday1080@gmail.com">abhyuday1080@gmail.com</a>
-- Solved 600 questions @Leetcode with max rating 1650🤩
 
 
 ## 🛠 &nbsp;Tech Stack
