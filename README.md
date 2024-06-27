@@ -1,13 +1,13 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/sumit-pathak-263420225/" target="_blank">
+    <a href="https://www.linkedin.com/in/abhyuday1080/" target="_blank">
       <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="mailto:pathaksumit721gmail.com" target="_blank">
+    <a href="mailto:abhyuday1080gmail.com" target="_blank">
       <img alt="Gmail" src="https://img.shields.io/badge/-gmail-%23D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
     </a>
-    <a href="https://https://twitter.com/__SumitPathak__" target="_blank">
+    <a href="https://twitter.com/abhyuday0007" target="_blank">
       <img alt="Twitter" src="https://img.shields.io/badge/-twitter-0077B5?style=for-the-badge&logo=Twitter&logoColor=white">
     </a>
 
