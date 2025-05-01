@@ -90,8 +90,8 @@
 
 <p align="center">
 <a href="https://github.com/abhyuday1080">
-  <img height="180em" width = "340em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abhyuday1080&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" width = "300em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abhyuday1080&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" width = "400em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abhyuday1080&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" width = "340em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abhyuday1080&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
