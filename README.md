@@ -7,7 +7,7 @@
     <a href="mailto:abhyuday1080gmail.com" target="_blank">
       <img alt="Gmail" src="https://img.shields.io/badge/-gmail-%23D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
     </a>
-    <a href="https://twitter.com/https_abhy" target="_blank">
+    <a href="https://twitter.com/abhyuday1080" target="_blank">
       <img alt="Twitter" src="https://img.shields.io/badge/-twitter-0077B5?style=for-the-badge&logo=Twitter&logoColor=white">
     </a>
 
